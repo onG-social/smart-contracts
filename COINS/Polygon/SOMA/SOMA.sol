@@ -8,6 +8,7 @@ pragma solidity ^0.5.7;
  * @title SafeMath
  * @dev Math operations with safety checks that revert on error
  */
+ 
 library SafeMath {
     
     int256 constant private INT256_MIN = -2**255;
@@ -127,6 +128,7 @@ library SafeMath {
  * @title ERC20 interface
  * @dev see https://github.com/ethereum/EIPs/issues/20
  */
+ 
 interface IERC20 {
     function totalSupply() external view returns (uint256);
 
