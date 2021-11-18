@@ -36,22 +36,22 @@ On Ethereum, we currently only offer the ETH + Royalties option using our $SOMEE
 
 Coming soon!
 
-### Coins/Tokens
+### [Coins/Tokens](https://github.com/onG-social/smart-contracts/tree/master/COINS)
 
-Coins are broken down via Network as well. These coins are what are currently minted, and may also included retired coins as well. For a list of retired coins:
+Coins are broken down via Network as well. These coins are what are currently minted, and may also included retired coins as well. For a list of retired coins:[Coins/Tokens](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/RETIRED/)
 
-#### Ethereum
+#### [Ethereum](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum)
 
-***SOMEE***
+***[$SOMEE](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/SOMEE)***
 This is the primary governance token used for SoMee.social - it can also be used to stake for SAT once the prism pools are up, and can also be used to MINT NFT's on the NFT marketplace.
 
-***SAT***
+***[$SAT](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/SAT)***
 This is the primary advertising token used for SoMee.social.
 
-***ONG - RETIRED***
+***[RETIRED - $ONG](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/RETIRED/ONG)**
 This is the old reward token, no longer valid, everyone needs to swap from ONG to SOMEE before July 2022
 
-#### Polygon
+#### [Polygon](https://github.com/onG-social/smart-contracts/tree/master/COINS/Polygon)
 
-***SOMA***
+***[$SOMA](https://github.com/onG-social/smart-contracts/tree/master/COINS/Polygon/SOMA)***
 This is the primary NFT Polygon with royalties token. If you want NFT's on polygon with our marketplace, you use this TOKEN in order to actually mint/sell/auction the pieces.
