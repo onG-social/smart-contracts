@@ -1,8 +1,8 @@
-## Welcome to SoMee Smart Contracts
+# Welcome to SoMee Smart Contracts
 
 You can view our published smart contracts here -  nothing is hidden with these - when they are public, they are visible to everyone.
 
-### Contribution
+## Contribution
 
 If you would like to contribute to our smart contract development, simply fork the repo, and do your testing, then request access with a pull request to merge back into our system. We'll review and decide what to do after that.
 
@@ -35,3 +35,23 @@ On Ethereum, we currently only offer the ETH + Royalties option using our $SOMEE
 #### Binance
 
 Coming soon!
+
+### Coins/Tokens
+
+Coins are broken down via Network as well. These coins are what are currently minted, and may also included retired coins as well. For a list of retired coins:
+
+#### Ethereum
+
+***SOMEE***
+This is the primary governance token used for SoMee.social - it can also be used to stake for SAT once the prism pools are up, and can also be used to MINT NFT's on the NFT marketplace.
+
+***SAT***
+This is the primary advertising token used for SoMee.social.
+
+***ONG - RETIRED***
+This is the old reward token, no longer valid, everyone needs to swap from ONG to SOMEE before July 2022
+
+#### Polygon
+
+***SOMA***
+This is the primary NFT Polygon with royalties token. If you want NFT's on polygon with our marketplace, you use this TOKEN in order to actually mint/sell/auction the pieces.
