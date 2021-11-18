@@ -6,7 +6,7 @@ You can view our published smart contracts here -  nothing is hidden with these 
 
 If you would like to contribute to our smart contract development, simply fork the repo, and do your testing, then request access with a pull request to merge back into our system. We'll review and decide what to do after that.
 
-### NFT Smart Contracts
+### [NFT Smart Contracts](https://github.com/onG-social/smart-contracts/tree/master/NFT)
 
 NFT smart contracts are broken down via Network - blockchain - that they run on, and then further based on if they offer royalties (features) or not.
 
@@ -48,7 +48,7 @@ This is the primary governance token used for SoMee.social - it can also be used
 ***[$SAT](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/SAT)***
 This is the primary advertising token used for SoMee.social.
 
-***[RETIRED - $ONG](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/RETIRED/ONG)**
+***[RETIRED - $ONG](https://github.com/onG-social/smart-contracts/tree/master/COINS/Ethereum/RETIRED/ONG)***
 This is the old reward token, no longer valid, everyone needs to swap from ONG to SOMEE before July 2022
 
 #### [Polygon](https://github.com/onG-social/smart-contracts/tree/master/COINS/Polygon)
