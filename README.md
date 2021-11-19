@@ -55,3 +55,6 @@ This is the old reward token, no longer valid, everyone needs to swap from ONG t
 
 ***[$SOMA](https://github.com/onG-social/smart-contracts/tree/master/COINS/Polygon/SOMA)***
 This is the primary NFT Polygon with royalties token. If you want NFT's on polygon with our marketplace, you use this TOKEN in order to actually mint/sell/auction the pieces.
+
+#### [HIVE](https://github.com/onG-social/smart-contracts/tree/master/COINS/HIVE)
+This is the primary HIVE Layer 2 token repos - any tokens we mint here on Hive Engine will be listed here. For now, we have just the [$SME](https://github.com/onG-social/smart-contracts/tree/master/COINS/HIVE/SME.md) token.
