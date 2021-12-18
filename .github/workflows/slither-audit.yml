@@ -2,7 +2,7 @@ on: [push]
 
 jobs:
   main_job:
-    runs-on: [self-hosted, ubuntu]
+    runs-on: [self-hosted, ubuntu, web]
     name: Solidity Security 
     steps:
       - name: Checkout
