@@ -58,3 +58,6 @@ This is the primary NFT Polygon with royalties token. If you want NFT's on polyg
 
 #### [HIVE](https://github.com/onG-social/smart-contracts/tree/master/COINS/HIVE)
 This is the primary HIVE Layer 2 token repos - any tokens we mint here on Hive Engine will be listed here. For now, we have just the [$SME](https://github.com/onG-social/smart-contracts/tree/master/COINS/HIVE/SME.md) token.
+
+### [Staking Smart Contracts](https://github.com/onG-social/smart-contracts/tree/master/STAKES)
+This repo represents the staking contracts we use locally.
